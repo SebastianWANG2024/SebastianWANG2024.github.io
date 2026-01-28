@@ -47,8 +47,9 @@ Peking University | 2019 - 2023
   *2025 IEEE/ACM International Conference on Computer Aided Design (ICCAD)*, 1-9, 2025
 
 - **Syncircuit: Automated generation of new synthetic rtl circuits can enable big data in circuits**  
-  S Liu, **J Wang**, W Fang, Z Xie  
-  *2025 62nd ACM/IEEE Design Automation Conference (DAC)*, 1-7, 2025
+  S Liu†, **J Wang**†, W Fang, Z Xie  
+  *2025 62nd ACM/IEEE Design Automation Conference (DAC)*, 1-7, 2025  
+  <sub>† Co-first authors</sub>
 
 - **ATLAS: A Self-Supervised and Cross-Stage Netlist Power Model for Fine-Grained Time-Based Layout Power Analysis**  
   W Li, Y Lu, W Fang, **J Wang**, Q Zhang, Z Xie  

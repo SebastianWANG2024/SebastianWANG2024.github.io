@@ -1,3 +1,11 @@
 theme: jekyll-theme-minimal
 title: Sebastian Wang
-description: I am a student at the Hong Kong University of Science and Technology.
+description: Software Developer | Tech Enthusiast | Problem Solver
+logo: /assets/img/profile.jpg
+show_downloads: false
+
+# Social media links (optional)
+github_username: SebastianWANG2024
+# linkedin_username: your-linkedin
+# twitter_username: your-twitter
+email: jwangjw@connect.ust.hk

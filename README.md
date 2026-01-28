@@ -54,21 +54,11 @@ Peking University | 2019 - 2023
   W Li, Y Lu, W Fang, **J Wang**, Q Zhang, Z Xie  
   *2025 62nd ACM/IEEE Design Automation Conference (DAC)*, 1-7, 2025
 
-## 🏆 Achievements
 
-- 🥇 First Place - University Hackathon 2023
-- 📜 AWS Certified Solutions Architect
-- ⭐ Contributor to 10+ open-source projects
 
 ## 📫 Get In Touch
 
 I'm always interested in connecting with fellow developers and exploring new opportunities!
 
 - **GitHub:** [@SebastianWANG2024](https://github.com/SebastianWANG2024)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Email:** your.email@example.com
-- **Twitter:** [@YourHandle](https://twitter.com/yourhandle)
-
----
-
-*This site is powered by [GitHub Pages](https://pages.github.com/) and uses the [Jekyll Minimal Theme](https://github.com/pages-themes/minimal).*
+- **Email:** jwangjw@connect.ust.hk

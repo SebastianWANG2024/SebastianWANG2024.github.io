@@ -3,21 +3,7 @@
 Hi! I'm **Sebastian Wang**, a PhD student at the Hong Kong University of Science and Technology.
 
 
-## 💼 Experience
 
-### Software Developer | Company Name
-*January 2024 - Present*
-
-- Developed and maintained web applications serving 10,000+ users
-- Collaborated with cross-functional teams to deliver high-quality software
-- Implemented CI/CD pipelines reducing deployment time by 50%
-
-### Junior Developer | Previous Company
-*June 2022 - December 2023*
-
-- Built RESTful APIs using Node.js and Express
-- Optimized database queries improving performance by 30%
-- Participated in code reviews and agile development processes
 
 ## 🎓 Education
 

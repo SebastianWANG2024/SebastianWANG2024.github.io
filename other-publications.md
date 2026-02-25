@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Other Publications
-permalink: /other-publications/
+permalink: /other-publications.html
 ---
 
 ## Other Publications

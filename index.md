@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # About Me
 
 Hi! I'm **Sebastian Wang**, a PhD student at the Hong Kong University of Science and Technology.
@@ -17,7 +21,7 @@ Peking University | 2019 - 2023
 
 *[Google Scholar](https://scholar.google.com/citations?user=KSnhcBIAAAAJ&hl=zh-TW)*
 
-**[Other publications (co-authored)](https://sebastianwang2024.github.io/other-publications/)** — papers where I am a co-author
+**[Other publications (co-authored)](other-publications.html)** — papers where I am a co-author
 
 ### First-Author / Co-First-Author
 

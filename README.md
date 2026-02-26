@@ -34,6 +34,11 @@ Peking University | 2019 - 2023
   *2025 62nd ACM/IEEE Design Automation Conference (DAC)*, 1-7, 2025  
   <sub>† Co-first authors</sub>
 
+- **A survey of circuit foundation model: Foundation ai models for vlsi circuit design and eda**  
+  W Fang†, **J Wang**†, Y Lu, S Liu, Y Wu, Y Ma, Z Xie  
+  *arXiv preprint arXiv:2504.03711*, 2025  
+  <sub>† Co-first authors</sub>
+
 ## 📫 Get In Touch
 
 I'm always interested in connecting with fellow developers and exploring new opportunities!

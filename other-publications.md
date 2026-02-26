@@ -34,10 +34,6 @@ Papers where I am a co-author (not first or co-first author).
 
 ### 2025
 
-- **A survey of circuit foundation model: Foundation ai models for vlsi circuit design and eda**  
-  W Fang, J Wang, Y Lu, S Liu, Y Wu, Y Ma, Z Xie  
-  *arXiv preprint arXiv:2504.03711*, 2025
-
 - **Circuitfusion: multimodal circuit representation learning for agile chip design**  
   W Fang, S Liu, J Wang, Z Xie  
   *arXiv preprint arXiv:2505.02168*, 2025
